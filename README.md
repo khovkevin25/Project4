@@ -17,6 +17,6 @@
 
 ## ***Optimization Process***
 
-## ***Summary & limitations***
+## ***Summary & Limitations***
 
 ## ***Resources***
