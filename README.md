@@ -15,7 +15,7 @@
 ## ***Results of ML***
 - Talk about inital results
 
-## ***Optimization Process ***
+## ***Optimization Process***
 
 ## ***Summary & limitations***
 
