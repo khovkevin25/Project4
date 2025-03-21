@@ -11,7 +11,7 @@ The given dataset was used for exploratory data analysis, modeling, and predicti
 ## **Visuals and Findings**
 - paste visuals and insights
 
-## **Results of ML**
+## **Random Forest Results**
 ### Initial Results
 ### Optimized Results
 
