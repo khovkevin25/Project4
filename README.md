@@ -20,5 +20,5 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
 ## **Summary & Limitations**
 
 ## **Resources**
-Dataset Source: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
-Matplotlib Documentation (https://matplotlib.org/stable/index.html) used to help create various visuals
+- Dataset Source: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
+- Matplotlib Documentation (https://matplotlib.org/stable/index.html) used to help create various visuals
