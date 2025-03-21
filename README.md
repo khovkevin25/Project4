@@ -15,8 +15,7 @@ The given dataset was used for exploratory data analysis, modeling, and predicti
 ### Initial Results
 ### Optimized Results
 
-## ***Optimization Process***
-
 ## ***Summary & Limitations***
 
 ## ***Resources***
+Dataset Source: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
