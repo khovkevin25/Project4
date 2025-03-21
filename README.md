@@ -8,14 +8,14 @@ The given dataset was used for exploratory data analysis, modeling, and predicti
 - features being used/not being used
 - target variable
 
-## ***Visuals and Findings***
+## **Visuals and Findings**
 - paste visuals and insights
 
-## ***Results of ML***
+## **Results of ML**
 ### Initial Results
 ### Optimized Results
 
-## ***Summary & Limitations***
+## **Summary & Limitations**
 
-## ***Resources***
+## **Resources**
 Dataset Source: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
