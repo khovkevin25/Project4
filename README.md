@@ -15,10 +15,11 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
 
 ## **Random Forest**
 ### Initial Results
-- Presence of overfitting
-### Optimized Results
+- Against the testing data,  of overfitting
+### Optimized Steps and Results
 - Overfitting still present
 ## **Summary & Limitations**
+Overall, the model has a poor performance in predicting the presence and absence of balding. The following 
 
 ## **Resources**
 - Dataset Source: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
