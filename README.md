@@ -15,9 +15,9 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
 
 ## **Random Forest**
 ### Initial Results
-- 
+- Presence of overfitting
 ### Optimized Results
-
+- Overfitting still present
 ## **Summary & Limitations**
 
 ## **Resources**
