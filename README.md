@@ -19,7 +19,7 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
 ### Optimized Steps and Results
 - Overfitting still present
 ## **Summary & Limitations**
-Overall, the model has a poor performance in predicting the presence and absence of balding. The following 
+Overall, the model has a poor performance in predicting the presence and absence of balding. This could the result of the following limitations within the given datset: presence of multicollinearity where too many features are correlated to each other, the possibility of noise and/or irrelevant detail attributed to the model overfitting the data , and the lack of overall useful data entries such as gender, dietary factors, ethnicity, etc. 
 
 ## **Resources**
 - Dataset Source: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
