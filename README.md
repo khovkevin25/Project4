@@ -18,6 +18,7 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
 - The model has the accuracy of correctly predicting the presence and absence of balding in individuals 55% of the time. Given the following precision and recall scores, the model is not entirely reliable in predicting individuals who experience balding and those who do not, nor is it effective in capturing the majority of these individuals. 
   - Absence of balding had a precision of 55% and recall of 57%
   - Presence of balding had a precision of 54% and recall of 53%
+    
 - In addition, after evaluating the model against the training and testing set, there is a clear occurance of overfitting. In other words, the model is memorizing the training set to well that it is not able to make correct predictions on new data. 
 ### Optimized Steps and Results
 - Overfitting still present
