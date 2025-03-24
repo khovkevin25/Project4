@@ -15,7 +15,7 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
 
 ## **Random Forest**
 ### Initial Results
-The model has the accuracy of correctly predicting the presence and absence of balding in individuals 55% of the time. Given the following precision and recall scores, the model is not entirely reliable in predicting individuals who experience balding and those who do not, as nor is it effective in capturing the majority of these individuals. 
+The model has the accuracy of correctly predicting the presence and absence of balding in individuals 55% of the time. Given the following precision and recall scores, the model is not entirely reliable in predicting individuals who experience balding and those who do not, nor is it effective in capturing the majority of these individuals. 
 - Absence of balding had a precision of 55% and recall of 57%
 - Presence of balding had a precision of 54% and recall of 53%
 ### Optimized Steps and Results
