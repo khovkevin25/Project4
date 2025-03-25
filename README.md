@@ -6,9 +6,18 @@ Question: How do various factors, such as genetics, medication, stress, environm
 The chosen dataset was used for exploratory data analysis, modeling, and predictive analytics aimed at understanding the relationship between various factors and the presence or absence of balding in individuals. With the use of the random forest model, we created a binary classifier to predict whether individuals will experience balding.
 
 ## **Data Processing and Cleaning**
-- talk about pyspark
-- features being used/not being used
-- target variable
+We began by creating a spark session that we then use to host the database so it is hosted somewhere people can pull from. We then read the data into a dataframe and converted it into a pandas for our initial cleaning. This data set is actively managed from the user in kaggle so there was only a little bit of cleaning necessary: 
+  - We dropped the ID column as it was superfluous 
+  - Some of the columns had a random space at the end so we deleted those
+  - Lastly, a good chunk of the data was binary true/false values so we converted those to 0/1 to be a represented by a binary number
+
+We did additional cleanings specific to the model creation and optimization process. 
+  - After reading into a panda dataframe, she removed the unneeded ID column, used “get_dummies” function to replace the yes/no with true/false responses.
+  - To further optimize, she used the get_dummies function with the attribute drop_first=True to help prevent the multicollinearity in the regression model. 
+
+There are a lot of columns in this dataset and we used nearly all of them - ranging from genetics to stress levels to environmental factors, throughout the visualizations you'll see the variety of data points.
+
+Lastly, our target variable is _Hair Loss_ as we are seeing how these other columns and attributes influence or lead to it.   
 
 ## **Visuals and Findings**
 - paste visuals and insights
