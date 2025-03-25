@@ -19,7 +19,7 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
   - Absence of balding had a precision of 55% and recall of 57%
   - Presence of balding had a precision of 54% and recall of 53%
     
-- In addition, after evaluating the model against the training and testing set, there is a clear occurance of overfitting. In other words, the model is memorizing the training set to well that it is not able to make correct predictions on new data. 
+- After evaluating the model against the training and testing set, there is a clear occurance of overfitting. In other words, the model is memorizing the training set to well that it is not able to make correct predictions on new data, the testing set. 
 ### Optimized Steps and Results
 - Overfitting still present
 ## **Summary & Limitations**
