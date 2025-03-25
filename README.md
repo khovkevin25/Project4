@@ -20,7 +20,19 @@ There are a lot of columns in this dataset and we used nearly all of them - rang
 Lastly, our target variable is _Hair Loss_ as we are seeing how these other columns and attributes influence or lead to it.   
 
 ## **Visuals and Findings**
-- paste visuals and insights
+- Binary Variables:
+  - Genetics:
+  - Hormonal Changes:
+  - Hair Care Habits:
+  - Environmental Factors:
+  - Smoking:
+  - Weight Loss:
+- Non-Binary Variables:
+  - Medical Conditions:
+  - Medications & Treatments:
+  - Nutritional Deficiencies:
+  - Stress Level:
+  - Age:
 
 ## **Random Forest**
 ### Initial Results
