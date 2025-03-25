@@ -21,7 +21,11 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
     
 - After evaluating the model against the training and testing set, there is a clear occurance of overfitting. In other words, the model is memorizing the training set to well that it is not able to make correct predictions on new data, the testing set. 
 ### Model Optimization Steps and Results
-- 
+- To optimize the model:
+  - Removed any multicollinearity that was visibly present in the data
+  - Lowered the number of n_estimators in the model: Beneficial because we have limited computational resources. Therefore, fewer trees (simplier model) is more effective since the dataset is relatively small
+
+
 ## **Summary & Limitations**
 Overall, the model has a poor performance in predicting the presence and absence of balding. This could the result of the following limitations within the given datset: presence of multicollinearity where too many features are correlated to each other, the possibility of noise and/or irrelevant detail attributed to the model overfitting the data , and the lack of overall useful data entries such as gender, dietary factors, ethnicity, etc. 
 
