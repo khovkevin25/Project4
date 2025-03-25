@@ -28,7 +28,11 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
   - Smoking:
   - Weight Loss:
 - Non-Binary Variables:
+
+Similar to the trends seen for the binary variables for this dataset, many of the non-binary variables also did not have a lot of variability between the outcomes and if each led to hair loss or not. Only Age displayed some visual differences between the outcomes.
+
   - Medical Conditions:
+
   - Medications & Treatments:
   - Nutritional Deficiencies:
   - Stress Level:
