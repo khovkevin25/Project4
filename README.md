@@ -6,7 +6,7 @@ Question: How do various factors, such as genetics, medication, stress, environm
 The chosen dataset was used for exploratory data analysis, modeling, and predictive analytics aimed at understanding the relationship between various factors and the presence or absence of balding in individuals. With the use of the random forest model, we created a binary classifier to predict whether individuals will experience balding.
 
 ## **Data Processing and Cleaning**
-We began by creating a spark session that we then use to host the database so it is hosted somewhere people can pull from. We then read the data into a dataframe and converted it into a pandas for our initial cleaning. This data set is actively managed from the user in kaggle so there was only a little bit of cleaning necessary: 
+We created a spark session that hosts the database, allowing people to pull from the url. We read the data into a dataframe and converted it into a pandas for our initial cleaning. This data set is actively managed from the user in Kaggle so there was only a little bit of cleaning necessary: 
   - We dropped the ID column as it was superfluous 
   - Some of the columns had a random space at the end so we deleted those
   - Lastly, a good chunk of the data was binary true/false values so we converted those to 0/1 to be a represented by a binary number
