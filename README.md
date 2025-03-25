@@ -20,7 +20,7 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
   - Presence of balding had a precision of 54% and recall of 53%
     
 - After evaluating the model against the training and testing set, there is a clear occurance of overfitting. In other words, the model is memorizing the training set to well that it is not able to make correct predictions on new data, the testing set. 
-### Optimized Steps and Results
+### Model Optimization Steps and Results
 - Overfitting still present
 ## **Summary & Limitations**
 Overall, the model has a poor performance in predicting the presence and absence of balding. This could the result of the following limitations within the given datset: presence of multicollinearity where too many features are correlated to each other, the possibility of noise and/or irrelevant detail attributed to the model overfitting the data , and the lack of overall useful data entries such as gender, dietary factors, ethnicity, etc. 
