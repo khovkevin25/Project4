@@ -31,6 +31,8 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
   
   - The accuracy of the model slightly increased to 58%
   - After revewing the update precision and recall scores, the model continues to lack reliability in its predictions and ineffective to capturing majority of individuals who experience balding verse those who do not
+    - Absence of balding had a precision of 58% and recall of 60%
+    - Presence of balding had a precision of 57% and recall of 55%
   - Occurance of overfitting remains indicating possibilites of other limitations besides multicollinearity
 
 ## **Summary & Limitations**
