@@ -31,12 +31,21 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
 
 Similar to the trends seen for the binary variables for this dataset, many of the non-binary variables also did not have a lot of variability between the outcomes and if each led to hair loss or not. Only Age displayed some visual differences between the outcomes.
 
-  - Medical Conditions:
+  - Medical Conditions: The "No Data" outcome had the highest percentage of individuals that had no hair loss at 12.5%, but still 9.5% of individuals with hair loss also reported no medical conditions. On the other hand, the highest outcome of individuals with hair loss also had Alopecia Areata at 12.3%, but 9.2% of individuals with the same condition had no hair loss.
 
-  - Medications & Treatments:
-  - Nutritional Deficiencies:
-  - Stress Level:
-  - Age:
+![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Medical_Conditions_Chart.png)
+  - Medications & Treatments: There was also little variability between the different treatments and medications listed in the dataset for having or not having hair loss. Percentages of each outcome ranged between roughly 9% and 11% between both groups.
+
+![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Medications_Chart.png)
+  - Nutritional Deficiencies: The highest instance of nutritional deficiencies for individuals with hair loss was Zinc Deficiency, but this was also the highest instance for individuals without hair loss as well with 10.3% hair loss to 11.4% no hair loss.
+
+![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Nutrition_Chart.png) 
+  - Stress Level: The counts for individuals based on stress level were also fairly even across the board, with moderate stress levels having the most variability between showing hair loss and not.
+
+![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Stress_Chart.png)
+  - Age: The age groups were determined based on quartiles calculated from the age ranges from the dataset. There seemed to be more variability with this feature, especially in the 27-34 and 43-50 age groups, compared to the other features.
+
+![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Age_Chart.png)
 
 ## **Random Forest**
 ### Initial Results
