@@ -34,7 +34,7 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
   - Occurance of overfitting remains indicating possibilites of other limitations besides multicollinearity
 
 ## **Summary & Limitations**
-Overall, the model has a poor performance in predicting the presence and absence of balding. This could be the result of the following limitations within the given datset: presence of multicollinearity where too many features are correlated to each other, the possibility of noise and/or irrelevant detail attributed to the model overfitting the data , and the lack of overall useful data entries such as gender, dietary factors, ethnicity, etc. 
+Overall, the model has a poor performance in predicting the presence and absence of balding. We also tested additional models (logistic regression and SVM) to assess their performance against the data. The results of models proved to be inadequate as well. This leads us to believe that the following limitations (Ie: presence of multicollinearity where too many features are correlated to each other, the possibility of noise and/or irrelevant detail attributed to the model overfitting the data , and the lack of overall useful data entries such as gender, dietary factors, ethnicity, etc.), and then some, may be attributing to the poor model performances.
 
 ## **Resources**
 - Dataset Source: https://www.kaggle.com/datasets/amitvkulkarni/hair-health
