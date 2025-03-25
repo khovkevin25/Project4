@@ -23,12 +23,10 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
   
 ### Model Optimization Steps and Results
 - To optimize the model:
-  
   - Removed any multicollinearity that was visibly present in the data
   - Lowered the number of n_estimators in the model: Beneficial because we have limited computational resources. Therefore, fewer trees (simplier model) is more effective since the dataset is relatively small
     
 - Results:
-  
   - The accuracy of the model slightly increased to 58%
   - After revewing the update precision and recall scores, the model continues to lack reliability in its predictions and ineffective to capturing majority of individuals who experience balding verse those who do not
     - Absence of balding had a precision of 58% and recall of 60%
