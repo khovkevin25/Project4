@@ -21,8 +21,10 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
 
 ## **Visuals and Findings**
 - Binary Variables:
-  - **Genetics:**
- 
+  
+  - **Genetics:** Below is a chart that displays whether there is a hereditary factor in hair loss. On the x-axis, the 0 represents individuals who do not carry the gene(s) that contributes to hair loss while the 1 represents those who are carriers. Of the individuals who are non-carriers, 52.4% of them are not experiencing hair loss while 47.6% are. As for those who are carriers of the gene(s), 48.3% of them are not experiencing hair loss while 51.7% are. Overall, there doesn't appear to be a significant difference between the two groups.
+    
+ ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals_Binary%20Charts/Genetics_Factor.png)
 
   - **Hormonal Changes:**
  
@@ -61,15 +63,19 @@ Similar to the trends seen for the binary variables for this dataset, many of th
   - **Medical Conditions:** The "No Data" outcome had the highest percentage of individuals that had no hair loss at 12.5%, but still 9.5% of individuals with hair loss also reported no medical conditions. On the other hand, the highest outcome of individuals with hair loss also had Alopecia Areata at 12.3%, but 9.2% of individuals with the same condition had no hair loss.
 
 ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Medical_Conditions_Chart.png)
+
   - **Medications & Treatments:** There was also little variability between the different treatments and medications listed in the dataset for having or not having hair loss. Percentages of each outcome ranged between roughly 9% and 11% between both groups.
 
 ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Medications_Chart.png)
+
   - **Nutritional Deficiencies:** The highest instance of nutritional deficiencies for individuals with hair loss was Zinc Deficiency, but this was also the highest instance for individuals without hair loss as well with 10.3% hair loss to 11.4% no hair loss.
 
 ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Nutrition_Chart.png) 
+
   - **Stress Level:** The counts for individuals based on stress level were also fairly even across the board, with moderate stress levels having the most variability between showing hair loss and not.
 
 ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Stress_Chart.png)
+
   - **Age Groups:** The age groups were determined based on quartiles calculated from the age ranges from the dataset. There seemed to be more variability with this feature, especially in the 27-34 and 43-50 age groups, compared to the other features.
 
 ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals/Non-Binary%20Charts/Age_Chart.png)
