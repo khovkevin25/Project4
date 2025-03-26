@@ -31,14 +31,16 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
  
 
   - **Environmental Factors:**
- 
+ ![image](https://github.com/user-attachments/assets/8f11fb86-508a-483c-9843-82388780fc28)
+
 
   - **Smoking:**
  ![image](https://github.com/user-attachments/assets/adf54c20-9a28-4d25-895f-20513d477164)
 
 
   - **Weight Loss:**
- 
+ ![image](https://github.com/user-attachments/assets/93932b95-7bf0-4dff-b78d-8d8e08124fdd)
+
 
 
 - Non-Binary Variables:
