@@ -8,13 +8,11 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
 ## **Data Processing and Cleaning**
 We created a Spark session that hosts the database, allowing people to pull from the URL. We read the data into a dataframe and converted it into a Pandas for our initial cleaning. This dataset is actively managed from the user in Kaggle, so there was only a little bit of cleaning necessary: 
   - We dropped the ID column as it was superfluous
-  - Some of the columns had a random space at the end so those were removed
-  - A good chunk of the data were binary True/False values so we converted those to 0/1 to be a represented by a binary number
-
-We did additional cleanings specific to the model creation and optimization process. 
+  - Used strip function to get rid of blank cells at the end of columns
+  - Converted the Age and Hair Loss to integers after spark changed them to objects
   - After reading into a Panda dataframe, we removed the unneeded ID column and used the “get_dummies” function to replace the yes/no with true/false responses
   - To further optimize, we used the "get_dummies" function with the attribute "drop_first=True" to help prevent the multicollinearity in the regression model
-
+    
 There are a lot of columns in this dataset and we used nearly all of them - ranging from genetics to stress levels to environmental factors, throughout the visualizations you'll see the variety of data points.
 
 Lastly, our target variable is _Hair Loss_ as we are seeing how these other columns and attributes influence or lead to it.   
