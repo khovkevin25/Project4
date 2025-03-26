@@ -42,13 +42,15 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
     If the red segment is significantly larger for smokers, it suggests a higher incidence of hair loss among smokers compared to non-smokers. 
     Conversely, if both groups show similar proportions, smoking may have a weaker correlation with hair loss.
     This visualization helps in understanding whether smoking is a potential risk factor for hair loss based
- ![image](https://github.com/user-attachments/assets/adf54c20-9a28-4d25-895f-20513d477164)
+ ![image](https://github.com/user-attachments/assets/e42d21eb-86ce-49f7-8af0-c1caa762e0ed)
+
 
 
   - **Weight Loss:**
   The chart helps identify whether weight loss is associated with increased hair loss. If the red portion is significantly larger for those 
   who experienced weight loss, it suggests a higher likelihood of hair loss due to weight loss.
- ![image](https://github.com/user-attachments/assets/93932b95-7bf0-4dff-b78d-8d8e08124fdd)
+
+![image](https://github.com/user-attachments/assets/4f3ebcf4-8164-42a3-9283-ea80838b570e)
 
 
 
