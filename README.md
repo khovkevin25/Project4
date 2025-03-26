@@ -60,8 +60,7 @@ The dataset consisted of two types of variables: binary and non-binary. The bina
 
 
 
-- Non-Binary Variables:
-
+- **Non-Binary Variables:**
 Similar to the trends seen for the binary variables for this dataset, many of the non-binary variables also did not have a lot of variability between the outcomes and if each led to hair loss or not. Only Age displayed some visual differences between the outcomes.
 
   - **Medical Conditions:** The "No Data" outcome had the highest percentage of individuals that had no hair loss at 12.5%, but still 9.5% of individuals with hair loss also reported no medical conditions. On the other hand, the highest outcome of individuals with hair loss also had Alopecia Areata at 12.3%, but 9.2% of individuals with the same condition had no hair loss.
