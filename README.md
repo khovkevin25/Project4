@@ -34,7 +34,8 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
  
 
   - **Smoking:**
- 
+ ![image](https://github.com/user-attachments/assets/adf54c20-9a28-4d25-895f-20513d477164)
+
 
   - **Weight Loss:**
  
