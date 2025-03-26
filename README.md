@@ -31,17 +31,23 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
  
 
   - **Environmental Factors:**
-  - The chart helps determine whether environmental factors (such as pollution, UV exposure, or chemicals) contribute to an increased risk 
+    The chart helps determine whether environmental factors (such as pollution, UV exposure, or chemicals) contribute to an increased risk 
     of hair loss. If the proportion of hair loss is significantly higher in the exposed group, it suggests a strong correlation between 
     environmental factors and hair health.
  ![image](https://github.com/user-attachments/assets/8f11fb86-508a-483c-9843-82388780fc28)
 
 
   - **Smoking:**
+    From the chart, we can observe the proportional differences in hair loss prevalence between smokers and non-smokers. 
+    If the red segment is significantly larger for smokers, it suggests a higher incidence of hair loss among smokers compared to non-smokers. 
+    Conversely, if both groups show similar proportions, smoking may have a weaker correlation with hair loss.
+    This visualization helps in understanding whether smoking is a potential risk factor for hair loss based
  ![image](https://github.com/user-attachments/assets/adf54c20-9a28-4d25-895f-20513d477164)
 
 
   - **Weight Loss:**
+  The chart helps identify whether weight loss is associated with increased hair loss. If the red portion is significantly larger for those 
+  who experienced weight loss, it suggests a higher likelihood of hair loss due to weight loss.
  ![image](https://github.com/user-attachments/assets/93932b95-7bf0-4dff-b78d-8d8e08124fdd)
 
 
