@@ -30,9 +30,10 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
   - **Hair Care Habits:**
  
 
-  - **Environmental Factors:** The chart helps determine whether environmental factors (such as pollution, UV exposure, or chemicals) contribute to an increased risk 
-of hair loss. If the proportion of hair loss is significantly higher in the exposed group, it suggests a strong correlation between 
-environmental factors and hair health.
+  - **Environmental Factors:**
+  - The chart helps determine whether environmental factors (such as pollution, UV exposure, or chemicals) contribute to an increased risk 
+    of hair loss. If the proportion of hair loss is significantly higher in the exposed group, it suggests a strong correlation between 
+    environmental factors and hair health.
  ![image](https://github.com/user-attachments/assets/8f11fb86-508a-483c-9843-82388780fc28)
 
 
