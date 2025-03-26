@@ -20,9 +20,12 @@ There are a lot of columns in this dataset and we used nearly all of them - rang
 Lastly, our target variable is _Hair Loss_ as we are seeing how these other columns and attributes influence or lead to it.   
 
 ## **Visuals and Findings**
-- Binary Variables:
+The dataset consisted of two types of variables: binary and non-binary. The binary variables consisted of **genetics**, **hormonal changes**, **poor hair care habits**, **environmental factors**, **smoking**, and **weight loss**. The non-binary variables, however, focused on **medical conditions**, **medications and treatments**, **nutritional deficiencies**, and the presence of hair loss in individuals experiencing certain levels of **stress** and of a particular **age group**. In this section, we have compiled a series of charts that display both the existence and lack thereof of these variables in both individuals who have experienced losing hair and those who haven’t. This provided us with visualizations of any potential patterns or findings when analyzing the relationship between the variables and hair loss.
+
+- **Binary Variables**:
+  Although there is a large variety of binary variables, there is very little difference between the individuals who have these factors, those who don’t and whether they experienced hair loss.
   
-  - **Genetics:** Below is a chart that displays whether there is a hereditary factor in hair loss. On the x-axis, the 0 represents individuals who do not carry the gene(s) that contributes to hair loss while the 1 represents those who are carriers. Of the individuals who are non-carriers, 52.4% of them are not experiencing hair loss while 47.6% are. As for those who are carriers of the gene(s), 48.3% of them are not experiencing hair loss while 51.7% are. Overall, there doesn't appear to be a significant difference between the two groups.
+  - **Genetics:** Below is a chart that displays whether there is a hereditary factor in hair loss. Of the individuals who are non-carriers of hair loss genetics (0), 52.4% of them are not experiencing hair loss while 47.6% are. As for those who are carriers of the genes (1), 48.3% of them are not experiencing hair loss while 51.7% are. Overall, there doesn't appear to be a significant difference between the two groups.
     
  ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals_Binary%20Charts/Genetics_Factor.png)
 
