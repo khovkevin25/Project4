@@ -36,6 +36,7 @@ Lastly, our target variable is _Hair Loss_ as we are seeing how these other colu
     The chart helps determine whether environmental factors (such as pollution, UV exposure, or chemicals) contribute to an increased risk 
     of hair loss. If the proportion of hair loss is significantly higher in the exposed group, it suggests a strong correlation between 
     environmental factors and hair health.
+![image](https://github.com/user-attachments/assets/f255e85a-5bd0-421b-877e-5736fa907d35)
 
 
 
