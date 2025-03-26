@@ -9,7 +9,7 @@ The chosen dataset was used for exploratory data analysis, modeling, and predict
 We created a Spark session that hosts the database, allowing people to pull from the URL. We read the data into a dataframe and converted it into a Pandas for our initial cleaning. This dataset is actively managed from the user in Kaggle, so there was only a little bit of cleaning necessary: 
   - We dropped the ID column as it was superfluous
   - Used strip function to get rid of blank cells at the end of columns
-  - Converted the Age and Hair Loss to integers after spark changed them to objects
+  - Converted the Age and Hair Loss columns to integers after spark changed them to objects
   - After reading into a Panda dataframe, we removed the unneeded ID column and used the “get_dummies” function to replace the yes/no with true/false responses
   - To further optimize, we used the "get_dummies" function with the attribute "drop_first=True" to help prevent the multicollinearity in the regression model
     
