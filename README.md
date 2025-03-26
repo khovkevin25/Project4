@@ -31,8 +31,8 @@ The dataset consisted of two types of variables: binary and non-binary. The bina
 
   - **Hormonal Changes:** Similar to genetics, hormonal changes, whether they are present or non-present, doesn’t any outstanding differences or findings. For those who did not experience hormonal changes, 49.4% experienced hair loss. This isn’t too far off from the 50.1% of individual who also loss hair with hormonal changes.
 
+![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals_Binary%20Charts/Hormonal_Factor.png)
 
- 
 
   - **Hair Care Habits:**
  
