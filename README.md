@@ -98,6 +98,7 @@ Similar to the trends seen for the binary variables for this dataset, many of th
 ## **Summary & Limitations**
 Overall, the model has a poor performance in predicting the presence and absence of balding. We also tested additional models (logistic regression and SVM) to assess their performance against the data. The results of models proved to be inadequate as well. This leads us to believe that the following limitations (i.e.: presence of multicollinearity where too many features are correlated to each other, the possibility of noise and/or irrelevant detail attributed to the model overfitting the data , and the lack of overall useful data entries such as gender, dietary factors, ethnicity, etc.), and then some, may be attributing to the poor model performances.
 
+## **File Directory**
 Our final code and resources used in this project can be found in the folder"Hair Fall Predictions". The code used to initially clean the data and the original dataset can be found in the folder "Cleaning Data". Visuals for the binary variables can be found in the folder "Visuals_Binary Charts". Visuals for the non-binary variables can be found in the folder "Visuals/Non-Binary Charts".
 
 ## **Resources**
