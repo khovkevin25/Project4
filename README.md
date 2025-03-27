@@ -1,7 +1,7 @@
 # Hair Loss Analysis
 
 ## **Overview**
-Question: How do various factors, such as genetics, medication, stress, and environmental factors, affect hair loss? Can we create a model that predicts if someone has reported hair loss based on their responses to these various factors?
+**Question:** How do various factors, such as genetics, medication, stress, and environmental factors, affect hair loss? Can we create a model that predicts if someone has reported hair loss based on their responses to these various factors?
 
 The chosen dataset was used for exploratory data analysis, modeling, and predictive analytics aimed at understanding the relationship between various factors and the presence or absence of balding in individuals. With the use of the random forest model, we created a binary classifier to predict whether individuals will experience balding/hair loss.
 
