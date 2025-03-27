@@ -32,8 +32,9 @@ The dataset consisted of two types of variables: binary and non-binary. The bina
 ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals_Binary%20Charts/Hormonal_Factor.png)
 
 
-  - **Hair Care Habits:**
- 
+  - **Hair Care Habits:** The chart shows that 51.7% of individuals who don’t have poor hair care habits experience hair loss while 47.8% of those who do have poor habits did experience hair loss. Again, although there is a slight difference, it’s not significant.
+
+ ![alt text](https://github.com/khovkevin25/Project4/blob/main/Visuals_Binary%20Charts/Poor_Hair_Care_Factor.png)
 
   - **Environmental Factors:**
     The chart helps determine whether environmental factors (such as pollution, UV exposure, or chemicals) contribute to an increased risk 
